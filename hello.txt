@@ -1,1 +1,1 @@
-"Hello, world! (версия из main)" 
+"Hello, world! (версия из main)"
