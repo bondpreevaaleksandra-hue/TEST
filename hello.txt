@@ -1,0 +1,1 @@
+"Hello, world! (версия из feature/update)" 
